@@ -1,0 +1,257 @@
+.i{
+    background-image: url("event.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.i1{
+    margin-left: 550px;
+    height: 45px;
+    width: 120px;
+    margin-top: 150px;
+    background-color: pink;
+    border-radius: 15px;
+}
+.i2{
+    margin-left: 550px;
+    height: 45px;
+    width: 120px;
+    margin-top: 200px;
+    background-color: pink;
+    border-radius: 15px;
+}
+.s{
+    height: 250px;
+    width: 350px;
+    background-color: aquamarine;
+    margin-left: 500px;
+}
+.s1{
+    background-color: blue;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    
+}
+.s2{
+    
+    height: 45px;
+    width: 120px;
+    background-color: pink;
+    border-radius: 15px;
+}
+.l{
+    background-color: aquamarine;
+    height: 110px;
+    width: 350px;
+    margin-left: 500px;
+}
+.l1{
+    background-color: blue;
+    border-radius: 10px;
+    width: 90px;
+    height: 27px;
+}
+.h{
+    background-color: rgb(209, 206, 204);
+}
+.h1{
+    text-align: center;
+    font-style: italic;
+    font-family: serif;
+    margin-top: 10px;
+}
+.h2{
+    background: linear-gradient(to right,rgb(235, 105, 235),skyblue);
+}
+.h3{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.h3 li{
+    float:left;
+    width: 150px;
+    height: 25px;
+    line-height: 40px;
+    text-align: center;
+}
+.h3 li a{
+    display: block;
+    text-decoration: none;
+}
+.h3 li a:hover{
+    background-color: #a2a3a5;
+}
+
+.ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display: block;
+} 
+
+.h4{
+    margin-left: 70px;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.h5{
+    color: white;
+    margin-left: 100px;
+}
+.h6{
+    margin-left: 100px;
+    border-radius: 30px;
+    height: 45px;
+    width: 200px;
+    background-color:rgb(247, 48, 48);
+}
+.h7{
+    margin-left: 25px;
+    border-radius: 30px;
+    height: 45px;
+    width: 150px;
+    background-color: rgb(52, 52, 207);
+}
+.h8{
+    color: white;
+    margin-left: 100px;
+    font-style: oblique;
+    font-family:cursive;
+}
+.h9{
+    display: flex;
+    margin-left: 430px;
+}
+.h10{
+    margin-left: 23px;
+}
+
+.h11{
+    background-color: white;
+    display:flex;
+    margin-left: 150px;
+}
+.h12,.h13,.h14,.h15{
+    background-color: white;
+    width: 100px;
+    height: 130px;
+    margin-left: 100px;
+    align-items: center;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 1px 1px;
+}
+.h12 a{
+    text-decoration: none;
+}
+.h13 a{
+    text-decoration: none;
+}
+.h16{
+    display: flex;
+    margin-left: 150px;
+}
+.h17,.h18,.h19,.h20{
+    background-color: white;
+    width: 100px;
+    height: 130px;
+    margin-left: 100px;
+    align-items: center;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 1px 1px;
+
+}
+.h12:hover,.h13:hover,.h14:hover,.h15:hover,.h17:hover,.h18:hover,.h19:hover,.h20:hover{
+    background-color: pink;
+}
+.h22{
+    color: rgb(6, 155, 214);
+}
+.h23{
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.h24{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 200px;
+    background-color: rgb(253, 230, 199);
+    width: 400px;
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(196, 194, 194);
+    
+}
+footer svg{
+    margin-left: 20px;
+}
+.g{
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+}
+.g1{
+    display: flex;
+    
+}
+.g2{
+    margin-left: 400px;
+    background-color: rgb(156, 211, 232);
+    height: 210px;
+    width: 250px;
+    border-radius: 10px;
+}
+.g3{
+    margin-left: 150px;
+    background-color: rgb(156, 211, 232);
+    height: 210px;
+    width: 250px;
+    border-radius: 10px;
+}
+.p{
+    background-image: url(photo2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.p1{
+    color: white;
+    font-size: larger;            
+}
+.p2{
+    background-color: rgb(64, 64, 251);
+    text-decoration: none;
+    height: 27px;
+    width: 80px;
+    border-radius: 5px;
+}
+.d{
+    background-image: url(draw.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.d1{
+    color: white;
+    font-size: larger;            
+}
+.d2{
+    background-color: rgb(64, 64, 251);
+    text-decoration: none;
+    height: 27px;
+    width: 80px;
+    border-radius: 5px;
+}
+.b2{
+    background: linear-gradient(to right,gray,white);
+}
+
+
+
+
